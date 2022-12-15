@@ -64,6 +64,7 @@ width:110px}
 .b-tick{color:blue}
 .g-tick{color:grey}
 .body{
+width:100%;
 background-color:white;
 overflow-x:hidden;
 overflow-y:auto;}
