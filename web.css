@@ -62,7 +62,7 @@ color:grey;
 width:110px}
 .b-tick{color:blue}
 .g-tick{color:grey}
-.body{height:1200px;
+.body{
 background-color:white;
 overflow-x:hidden;
 overflow-y:auto;}
